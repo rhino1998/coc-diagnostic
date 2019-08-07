@@ -78,6 +78,6 @@
     "typescript": "^3.4.4"
   },
   "dependencies": {
-    "diagnostic-languageserver": "^1.2.2"
+    "diagnostic-languageserver": "rhino1998/diagnostic-languageserver#master"
   }
 }
